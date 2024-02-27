@@ -1,0 +1,1 @@
+LS_URI = 'http://{host}:{port}/webhdfs/v1/{path}?op=LISTSTATUS'
