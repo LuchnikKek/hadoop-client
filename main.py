@@ -1,10 +1,5 @@
 from src.client import HDFSClient
 
-# hdfs dfs -mkdir -p /user/root
-# hdfs dfs -ls /
-
-
-# или namenode:8020
 STUB_HOST = 'localhost'
 STUB_PORT = 9870
 STUB_USER = 'some_user'
